@@ -1,44 +1,58 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Theme Switcher Com Typescript
 
-## Available Scripts
+## Sobre o Projeto
 
-In the project directory, you can run:
+Este projeto visa criar um theme switcher(dark/light)
 
-### `yarn start`
+### Feito Com
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [ReactJS]()
+- [Typescript]()
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### Pré-requisitos
 
-### `yarn test`
+[NodeJS]()
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Instalação
 
-### `yarn build`
+1. Para instalar e utilizar esse projecto depois de `clonar`, basta rodar no terminal o seguinte:
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```sh
+cd theme-switcher-reactjs
+```
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+2. Rode o seguinte comando para instalar todas depêndencias do projecto:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+yarn
+```
 
-### `yarn eject`
+3. Inicia o projecto com:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```
+yarn start || expo start
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Contribuição
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Contribuições são o que fazem a comunidade open source um lugar incrível para aprender, inspirar e criar. Qualquer contribuição que você fizer será **muito apreciada**.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+1. Faça um Fork do projeto
+2. Crie uma Branch para sua Feature (`git checkout -b feature/FeatureIncrivel`)
+3. Adicione suas mudanças (`git add .`)
+4. Comite suas mudanças (`git commit -m 'Adicionando uma Feature incrível!`)
+5. Faça o Push da Branch (`git push origin feature/FeatureIncrivel`)
+6. Abra um Pull Request
 
-## Learn More
+<!-- LICENSE -->
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Licença
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Distribuído sob a licença MIT.
+
+<!-- CONTACT -->
+
+## Contato
+
+João Amadeu - [Github](https://github.com/jmamadeu) <br>
+João Amadeu - [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-amadeu-8812291a5/)
